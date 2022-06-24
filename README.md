@@ -5,7 +5,9 @@ Compilation of R programming codes and data analysis reports.
 ##################################################
 
 RAFAEL ROCHA 
+#
 https://www.linkedin.com/in/rafael-rocha-232b8599/
+#
 rafhrds@gmail.com
 
 ##################################################
