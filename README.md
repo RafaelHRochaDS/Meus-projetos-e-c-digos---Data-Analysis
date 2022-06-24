@@ -12,7 +12,7 @@ rafhrds@gmail.com
 
 ##################################################
 
-Projetos desenvolvidos por mim nos últimos 2 anos:
+Projetos desenvolvidos por mim nos últimos anos:
 
 ##################################################
 
